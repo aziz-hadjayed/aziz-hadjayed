@@ -21,7 +21,7 @@ flowchart LR
 
 | Repository | What it shows |
 |---|---|
-| [**edge.ai-wearable-fatigue-detection**](https://github.com/aziz-hadjayed/edge.ai-wearable-fatigue-detection) | 13-model benchmark, knowledge distillation, INT8 CNN on STM32H7 — **48.5 KB Flash, 14 ms, 2.94 mJ** per inference, 95.2 % fatigue recall |
+| [**edge.ai-wearable-fatigue-detection**](https://github.com/aziz-hadjayed/edge.ai-wearable-fatigue-detection) | 13-model benchmark, knowledge distillation, INT8 CNN on STM32H7 — **48.5 KB Flash ,22 KB RAM, 14 ms, 2.94 mJ** per inference, 95.2 % fatigue recall |
 | [**yocto-fatigue-monitoring**](https://github.com/aziz-hadjayed/yocto-fatigue-monitoring) | Custom Yocto layer: reproducible, hardened Linux image for the Raspberry Pi 4 gateway |
 | [**FATIGUE_MONITORING_MOBILE_APP**](https://github.com/aziz-hadjayed/FATIGUE_MONITORING_MOBILE_APP) | FastAPI server with defense-in-depth security + Flutter real-time supervision app |
 
